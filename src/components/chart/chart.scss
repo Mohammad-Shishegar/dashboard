@@ -1,0 +1,10 @@
+.chart{
+    flex: 4;
+    box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.47);
+    .title{
+        margin: 10px;
+    }
+    .chartGrid{
+        stroke: lightgray;
+    }
+}
